@@ -1,0 +1,29 @@
+{
+  "name": "Skateboarding Club",
+  "imgsrc": "",
+  "description": "Cant skate? Afraid of skating? Worry no more as skateboaring club is here to alleviate all your woes as we explore the ways of the board, taking skate trips, watching skatevids, and learning the fundamentals of skating",
+  "officers": [
+    {
+      "position": "Presidents",
+      "name": "nwilliams53@cps.edu aben-dashan@cps.edu aturken@cps.edu"
+    
+    },
+    {
+      "position": "Advisor",
+      "name": "Mr. Viramontes"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Meetings",
+      "description": "Meetings take place every other Friday from 3:20 (shouldn't last longer than 45 mins) after school in Room 293 in arts building and we will often use different rooms for space."
+    }
+  ],
+  "links": [
+    {
+      "title": "Team Page",
+      "link": ""
+    }
+  ]
+}
+"© 2019 GitHub, Inc.t"
